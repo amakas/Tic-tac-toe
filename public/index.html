@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tic-tac-toe</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  </head>
+  <body>
+    <header id="header">
+      <h1 class="title">Tic-tac-toe</h1>
+    </header>
+    <section id="main" class="main">
+      <p class="turn">Your turn</p>
+      <div class="board">
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+        <div class="tile"></div>
+      </div>
+    </section>
+    <div class="buttons">
+      <button id="local" class="play-again">Local game</button>
+      <button id="bot" class="play-again">Normal bot</button>
+    </div>
+    <button id="superBot" class="super play-again">
+      Super puper crazy bot
+    </button>
+    <script type="module" src="/index.js"></script>
+  </body>
+</html>

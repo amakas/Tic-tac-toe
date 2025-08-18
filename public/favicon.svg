@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#fff"></rect>
+  <text x="50%" y="50%" font-size="48" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" fill="#ff4b5c">X</text>
+  <text x="50%" y="75%" font-size="24" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" fill="#1d3557">O</text>
+</svg>
