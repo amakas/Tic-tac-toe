@@ -3,7 +3,7 @@
 A simple **Tic-Tac-Toe** game built with **plain JavaScript, HTML, and CSS**, with a minimal backend, playable locally on a single computer.  
 The game features a **bot** with a minimax algorithm that almost never loses, with a small chance of making a random move for variability.  
 
-🔗 **Live Demo (deployed on Render):** (https://tic-tac-toe-pcrf.onrender.com)  
+🔗 **Live Demo (deployed on Vercel):** https://tic-tac-toe-28.vercel.app  
 
 ---
 
